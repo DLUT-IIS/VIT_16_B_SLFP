@@ -39,15 +39,29 @@ Dependencies:
 git clone https://github.com/DLUT-IIS/VIT_16_B_SLFP
 ```
 
-## models.net_weights
+## Accuracy of Quantized vit_b_16 functions on Cifar100.
 
-Accuracy of Quantized NET using various nonlinear activation functions on ImageNet-1K   
+Accuracy of Quantized vit_b_16 functions on Cifar100.
+------------------------------------------------------------------------------------------------------
+     Model    |    Dataset     |       W-bit       |       A-bit      |          Top-1 Accuracy
+------------------------------------------------------------------------------------------------------
+                               |    32bits(FP32)   |    32bits(FP32)  |              92.48%
+   Vit_b_16        cifar100    |----------------------------------------------------------------------
+                               |    8bits(SLFP)    |    8bits(SLFP)   |              91.68%
+------------------------------------------------------------------------------------------------------
 
-### models.net_weights_relu
+# Reference
 
-```python
+https://github.com/DLUT-IIS/CNN_Accelerator
 
-```
+https://github.com/ZipperLii/Fine-tuning-of-ViT-B16-on-CIFAR-100
+
+# Author
+Shize Zhang
+
+
+
+
 
 
 
