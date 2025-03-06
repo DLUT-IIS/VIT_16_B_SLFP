@@ -52,13 +52,13 @@ Accuracy of Quantized vit_b_16 functions on Cifar100.
 [MLP-PEFT-acc0.9248-Epoch20.pth](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741268997495/MLP-PEFT-acc0.9248-Epoch20.pth)   
 
 [ViT-b16-CIFAR100-Epoch10-PEFT-SLFP-QAT-acc0.9168.pth](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741269345629/ViT-b16-CIFAR100-Epoch10-PEFT-SLFP-QAT-acc0.9168.pth)
-# Reference
+## Reference
 
 https://github.com/DLUT-IIS/CNN_Accelerator
 
 https://github.com/ZipperLii/Fine-tuning-of-ViT-B16-on-CIFAR-100
 
-# Author
+## Author
 Shize Zhang
 
 
