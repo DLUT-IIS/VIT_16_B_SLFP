@@ -49,8 +49,11 @@ Accuracy of Quantized vit_b_16 functions on Cifar100.
 |     Vit_b_16      cifar100    |-------------------|------------------|----------------------------------|
 |                               |    8bits(SLFP)    |    8bits(SLFP)   |              91.68%              |
 |-------------------------------|-------------------|------------------|----------------------------------|
-![Uploading image.png…]()
 
+|      Model    | Dataset | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # Reference
 
