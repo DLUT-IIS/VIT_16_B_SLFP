@@ -49,8 +49,8 @@ Accuracy of Quantized vit_b_16 functions on Cifar100.
 | Vit_b_16  | cifar100  |    8bits(SLFP)    |    8bits(SLFP)   |              91.68%              |
 
 ## Weight model download
-[Baseline](超链接 "可选的标题")
 [MLP-PEFT-acc0.9248-Epoch20.pth](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741268997495/MLP-PEFT-acc0.9248-Epoch20.pth)
+[ViT-b16-CIFAR100-Epoch10-PEFT-SLFP-QAT-acc0.9168.pth](https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741269345629/ViT-b16-CIFAR100-Epoch10-PEFT-SLFP-QAT-acc0.9168.pth)
 # Reference
 
 https://github.com/DLUT-IIS/CNN_Accelerator
