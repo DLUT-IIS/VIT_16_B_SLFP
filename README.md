@@ -60,6 +60,8 @@ https://github.com/ZipperLii/Fine-tuning-of-ViT-B16-on-CIFAR-100
 
 ## Author
 Shize Zhang
+Xingyu Shao
+Boer Li
 
 
 
