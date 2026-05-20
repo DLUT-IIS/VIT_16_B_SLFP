@@ -39,15 +39,6 @@ Ensure your environment meets the following requirements:
 
 ### Installation
 
-1.  **Get API Key**: 
-    Obtain a free API Key at [https://example.com](https://example.com) (if required for data or logging).
-
-2.  **Clone the Repository**:
-    ```bash
-    git clone https://github.com/DLUT-IIS/VIT_16_B_SLFP
-    cd VIT_16_B_SLFP
-    ```
-
 ---
 
 ## 📂 Project Structure
