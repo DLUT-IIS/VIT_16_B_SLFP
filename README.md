@@ -3,18 +3,14 @@
 Implement a Vision Transformer based on SLFP (Small Logarithmic Floating-Point) using python.  
 
 **Note:** Supported network models: vit_b_16.;   
-
 **Note:** Supported activation functions include: gelu.;  
-
 **Note:** Optimisers include:Adam, SGD.;  
-
 **Note:** Datasets include: Cifar100.  
 
 
 *Related articles on SLFP:*
 
 *"Small Logarithmic Floating-Point Multiplier Based on FPGA and Its Application on MobileNet"*  
-
 *"FPGA-Friendly Architecture of Processing Elements For Efficient and Accurate CNNs"*  
 
 ****
@@ -55,13 +51,8 @@ Accuracy of Quantized vit_b_16 functions on Cifar100.
 ## Reference
 
 https://github.com/DLUT-IIS/CNN_Accelerator
-
 https://github.com/ZipperLii/Fine-tuning-of-ViT-B16-on-CIFAR-100
 
-## Author
-Shize Zhang   
-Xingyu Shao   
-Boer Li   
 
 
 
